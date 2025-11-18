@@ -1,0 +1,38 @@
+﻿Top packages by missed LINES:
+org/apache/commons/lang3/reflect - missed=217, covered=427, total=644, pct=66.30%
+org/apache/commons/lang3/builder - missed=203, covered=1267, total=1470, pct=86.19%
+org/apache/commons/lang3 - missed=147, covered=4821, total=4968, pct=97.04%
+org/apache/commons/lang3/time - missed=86, covered=1258, total=1344, pct=93.60%
+org/apache/commons/lang3/text - missed=75, covered=1551, total=1626, pct=95.39%
+org/apache/commons/lang3/exception - missed=19, covered=240, total=259, pct=92.66%
+org/apache/commons/lang3/math - missed=13, covered=700, total=713, pct=98.18%
+org/apache/commons/lang3/text/translate - missed=8, covered=214, total=222, pct=96.40%
+org/apache/commons/lang3/concurrent - missed=7, covered=312, total=319, pct=97.81%
+org/apache/commons/lang3/event - missed=4, covered=75, total=79, pct=94.94%
+org/apache/commons/lang3/tuple - missed=1, covered=85, total=86, pct=98.84%
+org/apache/commons/lang3/mutable - missed=0, covered=287, total=287, pct=100.00%
+
+Top sourcefiles by missed LINES:
+org/apache/commons/lang3/reflect/TypeUtils.java - missed=190, covered=109, total=299, pct=36.45%
+org/apache/commons/lang3/builder/ToStringStyle.java - missed=47, covered=462, total=509, pct=90.77%
+org/apache/commons/lang3/builder/StandardToStringStyle.java - missed=39, covered=23, total=62, pct=37.10%
+org/apache/commons/lang3/builder/EqualsBuilder.java - missed=39, covered=223, total=262, pct=85.11%
+org/apache/commons/lang3/builder/ToStringBuilder.java - missed=38, covered=94, total=132, pct=71.21%
+org/apache/commons/lang3/text/ExtendedMessageFormat.java - missed=35, covered=151, total=186, pct=81.18%
+org/apache/commons/lang3/Conversion.java - missed=32, covered=489, total=521, pct=93.86%
+org/apache/commons/lang3/time/FastDatePrinter.java - missed=29, covered=312, total=341, pct=91.50%
+org/apache/commons/lang3/AnnotationUtils.java - missed=23, covered=115, total=138, pct=83.33%
+org/apache/commons/lang3/builder/CompareToBuilder.java - missed=22, covered=234, total=256, pct=91.41%
+org/apache/commons/lang3/StringUtils.java - missed=21, covered=1348, total=1369, pct=98.47%
+org/apache/commons/lang3/time/FastDateParser.java - missed=19, covered=212, total=231, pct=91.77%
+org/apache/commons/lang3/text/StrTokenizer.java - missed=19, covered=230, total=249, pct=92.37%
+org/apache/commons/lang3/ClassUtils.java - missed=16, covered=283, total=299, pct=94.65%
+org/apache/commons/lang3/exception/ExceptionUtils.java - missed=15, covered=128, total=143, pct=89.51%
+org/apache/commons/lang3/time/DurationFormatUtils.java - missed=13, covered=246, total=259, pct=94.98%
+org/apache/commons/lang3/CharSequenceUtils.java - missed=13, covered=36, total=49, pct=73.47%
+org/apache/commons/lang3/SerializationUtils.java - missed=12, covered=63, total=75, pct=84.00%
+org/apache/commons/lang3/time/DateUtils.java - missed=12, covered=309, total=321, pct=96.26%
+org/apache/commons/lang3/text/StrBuilder.java - missed=9, covered=738, total=747, pct=98.80%
+
+Overall line coverage: 11237/12017 (93.51%)
+
