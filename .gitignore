@@ -1,0 +1,16 @@
+# Python venv & cache
+.venv/
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Maven build output
+codebase/target/
+codebase/site_jacoco/
+codebase/surefire-reports/
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
